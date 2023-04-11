@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: 'ionic.beer',
   appName: 'beer',
   webDir: 'dist',
-  bundledWebRuntime: false
+  bundledWebRuntime: false,
 };
 
 export default config;
